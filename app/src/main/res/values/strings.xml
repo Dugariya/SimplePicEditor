@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simplePicEditor</string>
+    <string name="select">Edit</string>>
+    <string name="camera_text">Camera</string>>
+</resources>
